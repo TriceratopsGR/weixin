@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "JOe1-BBCysxYj36KzYalFfnuPRnQ8Btn6dazbW1GLEU",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o8NC75yz9WxX4sgehcGo7YEABjKw","o8NC75_7Y43EHnuXT_fhA6iVwJ-Y"],
+"user": ["o8NC75yz9WxX4sgehcGo7YEABjKw","o8NC75_7Y43EHnuXT_fhA6iVwJ-Y","o8NC75_X7FFF1fiGsvnecbwkvKbI"],
 
 # 信息配置
 # 所在省份
@@ -15,11 +15,11 @@
 # 所在城市
 "city": "常德",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "蟑螂恶霸", "birthday": "r2000-06-01"},
+"birthday1": {"name": "🦖", "birthday": "r2000-11-28"},
 # 生日2
-"birthday2": {"name": "鲨鱼辣椒", "birthday": "r1999-08-18"},
+"birthday2": {"name": "🥁涛", "birthday": "r2001-05-13"},
 # 生日3
-"birthday3": {"name": "晴天队长", "birthday": "r1999-08-18"},
+"birthday3": {"name": "烫小毛", "birthday": "r2001.09.08"},
 # 在一起的日子，格式同上
 "love_date": "2000-08-18"
 }
